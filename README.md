@@ -3,14 +3,12 @@
     <a href="#english">🇺🇸 English</a> | <a href="#español">🇪🇸 Español</a>
   </p>
 </div>
-![Hey, I'm Angel.](./assets/header-en.svgder.svg)
-
 ---
 
 # English
 
 <div align="center">
-  <img src="assets/header-en.svg" alt="Hey, I'm Angel Rafael" width="100%" />
+  <img src="./assets/header-en.svg" alt="Hey, I'm Angel Cedeño" width="100%" />
 </div>
 
 <br>
