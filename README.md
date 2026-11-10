@@ -3,7 +3,6 @@
     <a href="#english">🇺🇸 English</a> | <a href="#español">🇪🇸 Español</a>
   </p>
 </div>
----
 
 # English
 
@@ -52,15 +51,15 @@ My work focuses on the intersection of software development and massive data ana
 
 ---
 
-## ⚡ Random Facts
-
-* 🍕 My code compiles much better if there's a Domino's pepperoni pizza nearby.
-* 🚗 Currently surviving driving lessons at Nova Driving School (license coming soon!).
-* 🔐 Designed a 5-day birthday app with daily "logic locks" to surprise my partner.
----
----
-
 # Español
+<div align="center">
+  <img src="assets/header-es.svg" alt="Hola, soy Angel Cedeño. Estudiante de Ingeniería en Computación y desarrollador de automatización de procesos" width="100%" />
+</div>
+<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/angel-cedeno-ramos)
+[![Seguidores](https://img.shields.io/github/followers/ZAngelCR?style=for-the-badge&color=2ea44f&logo=github)](https://github.com/ZAngelCR?tab=followers)
+[![Estrellas](https://img.shields.io/github/stars/ZAngelCR?style=for-the-badge&color=181717&logo=github)](https://github.com/ZAngelCR)
+
 ## 👋 Hi there
  
 Soy un estudiante de Ingeniería en Computación de Ecuador y un desarrollador apasionado por encontrar el orden dentro del caos de los datos. Actualmente soy el **único desarrollador a cargo de la automatización de procesos** para el departamento de Flotas de mi empresa, donde construyo herramientas a medida para eliminar tareas manuales y escalar la eficiencia operativa.
@@ -93,10 +92,3 @@ Mi trabajo se centra en el cruce entre el desarrollo de software y el análisis 
 > **Hardware controlado con Arduino para dispensar comida de mascotas.**
 * **Stack:** C++, Arduino, EEPROM.
 * **Mi aporte:** Programé la automatización total de la dispensación, integrando un servomotor y un módulo MP3 con una voz pregrabada para atraer a las mascotas.
-
----
-## ⚡ Curiosidades
-
-* 🍕 Mi código compila mucho mejor si hay una pizza de Domino's o una dona de Dunkin cerca.
-* 🚗 Actualmente entendiendo las clases de manejo en Nova Driving School (pronto con licencia en los united).
-* 🔐 Diseñé una app de cumpleaños de 5 días con "candados lógicos" de código diario para sorprender a mi pareja.
