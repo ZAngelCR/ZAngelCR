@@ -59,13 +59,6 @@ My work focuses on the intersection of software development and massive data ana
 * 🍕 My code compiles much better if there's a Domino's pepperoni pizza nearby.
 * 🚗 Currently surviving driving lessons at Nova Driving School (license coming soon!).
 * 🔐 Designed a 5-day birthday app with daily "logic locks" to surprise my partner.
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZAngelCR&show_icons=true&theme=transparent&hide_border=true&title_color=2ea44f&text_color=a3a3a3&icon_color=2ea44f" alt="GitHub Stats" />
-</div>
-
 ---
 ---
 
@@ -109,9 +102,3 @@ Mi trabajo se centra en el cruce entre el desarrollo de software y el análisis 
 * 🍕 Mi código compila mucho mejor si hay una pizza de Domino's o una dona de Dunkin cerca.
 * 🚗 Actualmente entendiendo las clases de manejo en Nova Driving School (pronto con licencia en los united).
 * 🔐 Diseñé una app de cumpleaños de 5 días con "candados lógicos" de código diario para sorprender a mi pareja.
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZAngelCR&show_icons=true&theme=transparent&hide_border=true&title_color=2ea44f&text_color=a3a3a3&icon_color=2ea44f" alt="GitHub Stats" />
-</div>
