@@ -8,7 +8,7 @@
 # English
 
 <div align="center">
-  <img src=".header-en.svg" alt="Hey, I'm Angel Cedeño" width="100%" />
+  <img src="./header-en.svg" alt="Hey, I'm Angel Cedeño" width="100%" />
 </div>
 
 <br>
