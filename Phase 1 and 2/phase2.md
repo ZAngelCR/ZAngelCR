@@ -9,3 +9,31 @@ README.md
 ├── 🎓 Experiencia           → opcional: ayudantías, hackathons, voluntariado
 └── 📫 Contacto              → LinkedIn, correo y GitHub
 ```
+
+**Por qué este orden:** primero quién soy, luego lo que sé hacer, después las pruebas (proyectos) y al final cómo encontrarme.
+
+---
+
+## 🧩 2. Diseño del contenido
+
+### Sección por sección
+
+| Sección | ✅ Incluyo | 🚫 Evito | Formato | 🔗 Enlaces |
+|---|---|---|---|---|
+| **👋 Presentación** | Nombre, carrera y universidad, una frase y qué busco (por ejemplo, prácticas). | GIF pesados, animaciones, edad y datos que no aportan. | Título grande, una o dos líneas y botones de contacto con texto. | LinkedIn y GitHub. |
+| **🙋 Sobre mí** | Qué estudio, qué me interesa, qué estoy aprendiendo y mi siguiente objetivo. | Listas largas de hobbies, textos de más de 5 líneas y frases de cliché. | Un párrafo corto y dos citas (`>`). | Ninguno. |
+| **🛠️ Habilidades** | Lenguajes, frontend, backend, bases de datos y herramientas, y una línea de dónde las usé. | Cosas no técnicas, iconos sin nombre y tecnologías que apenas toqué. | Tabla «Categoría / Tecnologías» con insignias que muestran el nombre. | shields.io (el nombre va escrito en la insignia). |
+| **🚀 Proyectos** | Máximo 3, con su ficha completa y mi aporte. | Repos sin README, proyectos sin demo ni explicación y tutoriales copiados. | Una ficha por proyecto (ver sección 3). | Repositorios y demos. |
+| **🎓 Experiencia** | Ayudantías, hackathons o voluntariado, con una frase de lo que aprendí. | Relleno. Si no tengo nada sólido, la quito. | Lista de 2 o 3 viñetas. | Ninguno. |
+| **📫 Contacto** | LinkedIn, correo y GitHub. | Demasiados canales y texto pequeño. | Botones y, debajo, el correo en texto plano por si no se puede hacer clic. | LinkedIn y `mailto`. |
+
+### ⚡ Reglas de lectura rápida
+
+- Lo más importante va **arriba** (que en 10 segundos se entienda quién soy).
+- Cada sección empieza con un título con emoji, para ubicarse al vuelo.
+- Párrafos de máximo 3 o 4 líneas, y tablas de máximo 3 columnas para que se lean bien en el celular.
+- Separo los bloques grandes con `---`.
+- **Toda** imagen e insignia lleva texto alternativo, y lo importante nunca depende solo de una imagen.
+- Solo Markdown (sin HTML ni CSS), y mis imágenes propias en una carpeta `assets/`.
+
+---
