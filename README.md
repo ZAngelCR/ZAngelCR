@@ -8,9 +8,8 @@
 # English
 
 <div align="center">
-  <img src="./header-en.svg" alt="Hey, I'm Angel Cedeño" width="100%" />
-</div>
-
+    <img src="assets/header-en.svg" alt="Hey, I'm Angel Cedeño. Computer Engineering student and process automation developer" width="100%" />
+    </div> <br>
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/angel-cedeno-ramos)
