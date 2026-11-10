@@ -32,3 +32,14 @@ Mi trabajo se centra en el cruce entre el desarrollo de software y el análisis 
 * **Mi aporte:** Programé la automatización total de la dispensación, integrando un servomotor y un módulo MP3 con una voz pregrabada para atraer a las mascotas.
 
 ---
+## ⚡ Curiosidades
+
+* 🍕 Mi código compila mucho mejor si hay una pizza de Domino's o una dona de Dunkin cerca.
+* 🚗 Actualmente entendiendo las clases de manejo en Nova Driving School (pronto con licencia en los united).
+* 🔐 Diseñé una app de cumpleaños de 5 días con "candados lógicos" de código diario para sorprender a mi pareja.
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZAngelCR&show_icons=true&theme=transparent&hide_border=true&title_color=2ea44f&text_color=a3a3a3&icon_color=2ea44f" alt="GitHub Stats" />
+</div>
