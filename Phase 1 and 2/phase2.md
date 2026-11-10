@@ -39,7 +39,83 @@ README.md
 ---
 
 ## 🧾 3. Fichas de proyectos
-
+### Plantilla (la copio tal cual para cada proyecto)
+ 
+```md
+### 🏛️ Nombre del proyecto
+ 
+> Una línea que diga qué es.
+ 
+🎯 **Problema:** qué necesidad resuelve.
+ 
+✨ **Funcionalidades:** las 3 o 4 cosas principales que hace.
+ 
+🙋 **Mi aporte:** qué hice yo.
+ 
+![Tecnología 1](https://img.shields.io/badge/Tecnología-color) ![Tecnología 2](https://img.shields.io/badge/Tecnología-color)
+ 
+[![Repositorio](https://img.shields.io/badge/Repositorio-GitHub-181717?style=for-the-badge&logo=github)](URL-del-repo) [![Demo](https://img.shields.io/badge/Demo-Ver%20sitio-2ea44f?style=for-the-badge)](URL-de-la-demo)
+```
+ 
+### Mis tres proyectos (fichas listas para pegar)
+  
+**Por qué estos tres:** cubren una app completa en equipo (Django y Flutter), un prototipo web y un proyecto de electrónica con Arduino. Los pongo de más completo a más sencillo.
+ 
+#### 🏫 Communitly (ESPOL Communities)
+ 
+> Plataforma web para descubrir y gestionar los clubes y comunidades estudiantiles de ESPOL.
+ 
+🎯 **Problema:** encontrar y administrar clubes y comunidades de ESPOL en un solo lugar.
+ 
+✨ **Funcionalidades:** las y los estudiantes buscan comunidades, las siguen, ven eventos y envían solicitudes de ingreso; quienes gestionan una comunidad crean, editan y cancelan eventos, y aprueban o rechazan solicitudes.
+ 
+🙋 **Mi aporte:** `Fui el encargado de las funcionalidades de Crear, Editar y Eliminar actividad, junto con todo lo que su apartado conlleva`
+ 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+ 
+[![Repositorio](https://img.shields.io/badge/Repositorio-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/GrupAP/Communitly) **Demo:** no tiene en línea; se prueba en local o con Docker.
+ 
+---
+ 
+#### 🧭 Atrapados en la ruta
+ 
+> Simulación de una app, publicada como página web con GitHub Pages.
+ 
+🎯 **Problema:** El transporte universaritario es un caos. Buses que van más llenos de lo que deberían, malos tratos, impuntualidad, etc. Por eso inventamos DEVIO.
+ 
+✨ **Funcionalidades:** simulación de la app en el navegador desde una sola página (`index.html`). 
+ 
+🙋 **Mi aporte:** `Fui el segundo desarrollador a cargo del proyecto, actualizando constantemente las rutas, las opciones de pago con Balance de la app, verificacion por correo institucional, etc.`
+ 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=githubpages&logoColor=white)
+ 
+[![Repositorio](https://img.shields.io/badge/Repositorio-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/esegarra2006-arch/esegarra2006-arch.github.io) [![Demo](https://img.shields.io/badge/Demo-Ver%20sitio-2ea44f?style=for-the-badge)](https://esegarra2006-arch.github.io/)
+ 
+---
+ 
+#### 🤖 DISPENSADOR
+ 
+> Dispensador controlado con Arduino, con servomotor, módulo MP3 y parlante.
+ 
+🎯 **Problema:** Proyecto de Fundamentos de Electricidad y Sistemas Digitales. Dispensador de comida de animales ecológico y fácil de construir
+ 
+✨ **Funcionalidades:** movimiento con servomotor, sonido por parlante con módulo MP3, control de diodos y señales, y guardado de datos en la memoria EEPROM (con opción de borrarla).
+ 
+🙋 **Mi aporte:** `Me encargue de hacer que la dispensasión de la comida sea automática y que suene una voz que atraiga al animal a la comida`
+ 
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+ 
+[![Repositorio](https://img.shields.io/badge/Repositorio-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ZAngelCR/DISPENSADOR) **Demo:** no tiene.
+ 
+---
+ 
+### 🛠️ Antes de destacarlos, les falta esto
+ 
+| Repositorio | Qué le falta |
+|---|---|
+| **Communitly** | Topics, enlace a una demo y licencia. Hay un `backend.rar` en la raíz que sobra (ya existe la carpeta `backend`). Lo demás está muy bien: README completo, `.gitignore` y 42 commits. |
+| **Atrapados en la ruta** | El README tiene solo dos líneas: falta decir qué es, cómo usarlo y una captura. También topics y licencia. |
+| **DISPENSADOR** | Descripción y topics. El README solo tiene notas de pines (y el pin 12 aparece para el servo y para el MP3, hay que revisarlo). Falta explicar qué hace, el montaje, una foto o video, y la licencia. |
 ---
 
 ## 🔀 4. Estrategia de commits
