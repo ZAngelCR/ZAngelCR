@@ -37,3 +37,39 @@ README.md
 - Solo Markdown (sin HTML ni CSS), y mis imágenes propias en una carpeta `assets/`.
 
 ---
+
+## 🧾 3. Fichas de proyectos
+
+---
+
+## 🔀 4. Estrategia de commits
+
+### Tipos que voy a usar
+
+| Tipo | Para qué | Ejemplo |
+|---|---|---|
+| `docs` | Contenido y textos del README | `docs: Add some personal information and skill set` |
+| `feat` | Algo nuevo y grande (un proyecto, una sección) | `feat: Add a link to the demo` |
+| `fix` | Corregir errores (ortografía, enlaces rotos) | `fix: Correct gramatical and spelling errors` |
+| `style` | Formato sin cambiar el contenido | `style: Order blank spaces and titles` |
+| `chore` | Archivos de apoyo | `chore: Add picture of the banner to assets` |
+
+### Mi hoja de ruta
+
+1. `docs: Create README with title and presentation`
+2. `docs: Add About Me section`
+3. `feat: Add skill sets and technologies`
+4. `feat: add project 1 entry with a link to the demo`
+5. `feat: add project 2 entry`
+6. `feat: add project 2 entry`
+7. `docs: add experience section`
+8. `docs: Add contact button and email`
+9. `style: adjust the order and spacing of sections`
+10. `fix: check links and correct spelling`
+
+### Reglas
+
+- Un commit por cambio importante, nada de subirlo todo junto.
+- Formato `tipo: qué hice`, en ingles (solamente para practicar) con verbo en presente («agrega», «corrige») y corto.
+- Después de cada commit, reviso cómo se ve en GitHub antes de seguir.
+- Meta: que el historial se lea como la historia de cómo fue creciendo el perfil.
