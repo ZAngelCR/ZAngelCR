@@ -3,6 +3,7 @@
     <a href="#english">🇺🇸 English</a> | <a href="#español">🇪🇸 Español</a>
   </p>
 </div>
+![Hey, I'm Angel.](./assets/header-en.svgder.svg)
 
 ---
 
