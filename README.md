@@ -49,6 +49,15 @@ My work focuses on the intersection of software development and massive data ana
 * **Stack:** C++, Arduino, EEPROM.
 * **My role:** Programmed the complete automation of the dispensing mechanism, integrating a servo motor and an MP3 module with a pre-recorded voice to attract pets.
 
+## 📫 Contact
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-angel--cedeno--ramos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/angel-cedeno-ramos)
+[![GitHub](https://img.shields.io/badge/GitHub-ZAngelCR-181717?style=for-the-badge&logo=github)](https://github.com/ZAngelCR)
+[![Email](https://img.shields.io/badge/Email-Write%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angeco258@gmail.com)
+ 
+📧 **Email:** angeco258@gmail.com
+
+---
 ---
 
 # Español
@@ -93,3 +102,11 @@ Mi trabajo se centra en el cruce entre el desarrollo de software y el análisis 
 > **Hardware controlado con Arduino para dispensar comida de mascotas.**
 * **Stack:** C++, Arduino, EEPROM.
 * **Mi aporte:** Programé la automatización total de la dispensación, integrando un servomotor y un módulo MP3 con una voz pregrabada para atraer a las mascotas.
+
+## 📫 Contacto
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-angel--cedeno--ramos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/angel-cedeno-ramos)
+[![GitHub](https://img.shields.io/badge/GitHub-ZAngelCR-181717?style=for-the-badge&logo=github)](https://github.com/ZAngelCR)
+[![Correo](https://img.shields.io/badge/Correo-Escr%C3%ADbeme-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angeco258@gmail.com)
+ 
+📧 **Correo:** angeco258@gmail.com
