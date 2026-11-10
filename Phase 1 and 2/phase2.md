@@ -1,3 +1,11 @@
+# 🎨 Diseño de mi perfil de GitHub
+ 
+![Fase](https://img.shields.io/badge/Fase-Diseño-2ea44f?style=for-the-badge)
+![Formato](https://img.shields.io/badge/Formato-Solo%20Markdown-0A66C2?style=for-the-badge)
+![Commits](https://img.shields.io/badge/Commits-Convencionales-f59e0b?style=for-the-badge)
+
+---
+
 ## 🗺️ 1. Esquema del README
 
 ```text
