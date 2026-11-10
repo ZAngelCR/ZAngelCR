@@ -56,6 +56,7 @@ My work focuses on the intersection of software development and massive data ana
   <img src="assets/header-es.svg" alt="Hola, soy Angel Cedeño. Estudiante de Ingeniería en Computación y desarrollador de automatización de procesos" width="100%" />
 </div>
 <br>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/angel-cedeno-ramos)
 [![Seguidores](https://img.shields.io/github/followers/ZAngelCR?style=for-the-badge&color=2ea44f&logo=github)](https://github.com/ZAngelCR?tab=followers)
 [![Estrellas](https://img.shields.io/github/stars/ZAngelCR?style=for-the-badge&color=181717&logo=github)](https://github.com/ZAngelCR)
