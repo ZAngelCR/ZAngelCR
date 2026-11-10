@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" width="100%" height="100%">
+  <defs>
+    <!-- Fondo oscuro -->
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117" />
+      <stop offset="100%" stop-color="#010409" />
+    </linearGradient>
+    <!-- Resplandor morado a la izquierda -->
+    <radialGradient id="glowLeft" cx="20%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#8A2387" stop-opacity="0.3" />
+      <stop offset="100%" stop-color="#0d1117" stop-opacity="0" />
+    </radialGradient>
+    <!-- Resplandor naranja a la derecha -->
+    <radialGradient id="glowRight" cx="80%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#F27121" stop-opacity="0.25" />
+      <stop offset="100%" stop-color="#0d1117" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+  
+  <rect width="1000" height="300" rx="12" fill="url(#bg)" stroke="#30363d" stroke-width="1" />
+  <rect width="1000" height="300" rx="12" fill="url(#glowLeft)" />
+  <rect width="1000" height="300" rx="12" fill="url(#glowRight)" />
+  
+  <rect x="60" y="50" width="220" height="32" rx="16" fill="#21262d" stroke="#30363d" stroke-width="1" />
+  <circle cx="80" cy="66" r="5" fill="#E94057" />
+  <text x="100" y="71" font-family="monospace" font-size="14" fill="#8b949e">open to projects • EC</text>
+  
+  <text x="60" y="160" font-family="system-ui, -apple-system, sans-serif" font-weight="800" font-size="64" fill="#ffffff">Hey, I'm Angel Cedeño 🚀</text>
+  
+  <text x="60" y="215" font-family="monospace" font-size="20" fill="#8b949e"><tspan fill="#E94057">~ ❯</tspan> data science & automation</text>
+  
+  <text x="790" y="270" font-family="monospace" font-size="13" fill="#6e7681">github.com/ZAngelCR</text>
+</svg>
